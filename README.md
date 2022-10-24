@@ -1,3 +1,3 @@
 # MidtermProject
 
-#Jump Game by Milton 
+-Jump Game by Milton 
